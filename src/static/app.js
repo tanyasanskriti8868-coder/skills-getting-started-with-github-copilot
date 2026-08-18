@@ -1,3 +1,4 @@
+// Activity management application for Mergington High School
 document.addEventListener("DOMContentLoaded", () => {
   const activitiesList = document.getElementById("activities-list");
   const activitySelect = document.getElementById("activity");
