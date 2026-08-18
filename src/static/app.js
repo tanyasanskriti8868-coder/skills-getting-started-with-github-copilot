@@ -1,6 +1,7 @@
 // Activity management application for Mergington High School
 // Displays available activities and manages student registrations
 // Features include viewing activity details and managing participant lists
+// Updated with participant display and unregister functionality
 
 document.addEventListener("DOMContentLoaded", () => {
   const activitiesList = document.getElementById("activities-list");
